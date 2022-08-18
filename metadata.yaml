@@ -1,0 +1,33 @@
+_repo: The-Independent-Church-of-God-of-the-Juda-tribe-of-Israel-As-a-fade-from-black-to-pure-white_68729
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Winston, Robert Watson
+    gutenberg_agent_id: '54920'
+    url: http://www.gutenberg.org/2009/agents/54920
+creator:
+  author:
+    agent_name: Cook, Allan Wilson
+    gutenberg_agent_id: '54919'
+    url: http://www.gutenberg.org/2009/agents/54919
+description: ''
+gutenberg_issued: '2022-08-11'
+identifiers:
+  gutenberg: '68729'
+language: en
+pgterms:marc904: https://archive.org/details/independentchurc00cook/mode/2up
+pgterms:marc905: 20220425105636cook
+pgterms:marc906: '1925'
+pgterms:marc907: US
+production_note: Mary Glenn Krause, Thomas Frost and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive).
+publication_note: United States :Lafayette Hall,1925.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The Independent Church of God of the Juda tribe of Israel: As a fade from
+  black to pure white'
+url: http://www.gutenberg.org/ebooks/68729
