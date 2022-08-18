@@ -5,12 +5,17 @@ contributor:
     agent_name: Winston, Robert Watson
     gutenberg_agent_id: '54920'
     url: http://www.gutenberg.org/2009/agents/54920
+covers:
+- cover_type: archival
+  image_path: 68729-h/images/cover.jpg
 creator:
   author:
     agent_name: Cook, Allan Wilson
     gutenberg_agent_id: '54919'
     url: http://www.gutenberg.org/2009/agents/54919
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68729#The-Independent-Church-of-God-of-the-Juda-tribe-of-Israel-As-a-fade-from-black-to-pure-white
 gutenberg_issued: '2022-08-11'
 identifiers:
   gutenberg: '68729'
